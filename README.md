@@ -11,23 +11,22 @@
 - 🛵
 
 　Landuages
- - vue
- - js
- - java
- - go
- - 密码学
- - 比特币系统设计
- - ....
+ - vue ｜ js ｜ java ｜ go ｜  密码学 ｜ 比特币系统设计 ....
 ---
 
 
 ### 今年汇总 ✨
 ---
 <p align="center">
-  <a href="https://github.com/coderxm">  <!--热门语言，可修改-->
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XLH1028&layout=compact&langs_count=5&theme=algolia"/>
-    <a href="https://github.com/coderxm">  <!--statics主页地址，可修改-->
+  <a href="https://github.com/coderxm">  <!--statics主页地址，可修改-->
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=XLH1028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>   <!--可修改-->
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/coderxm">  <!--热门语言，可修改-->
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XLH1028&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
+  </a>
+   <a href="https://https://github.com/coderxm/CNblogs-Theme-NewSakura">  <!--pinned推荐项目,可修改-->
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=XLH1028&repo=CNblogs-Theme-NewSakura&theme=algolia"/>
+  </a>   <!--可修改-->
+</p>
