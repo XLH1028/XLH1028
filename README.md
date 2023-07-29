@@ -12,8 +12,12 @@
 　Landuages
 
 ### 今年汇总 ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XLH1028&theme=vue-dark&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XLH1028&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XLH1028&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XLH1028&repo=convoychat" />
+</a>
 <!--
 **XLH1028/XLH1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
