@@ -1,4 +1,5 @@
 ### 🐳HELLO：我是XLink
+---
 - 💭 前后端爱好者，热爱编程
 - 🧑‍💻 [关于我](https://XLH1028.github.io) 一位程序员的的发展史
 - 🏡 作品：[聚合AI](https://XLH1028.github.io)  ｜  [二手手机](https://XLH1028.github.io)   ｜   [仓库管理系统](https://XLH1028.github.io)  ｜ [模比特币系统](https://XLH1028.github.io)
@@ -10,9 +11,20 @@
 - 🛵
 
 　Landuages
+ - vue
+ - js
+ - java
+ - go
+ - 密码学
+ - 比特币系统设计
+ - ....
+---
+
 
 ### 今年汇总 ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XLH1028&vue_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XLH1028&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XLH1028&vue_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XLH1028&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **XLH1028/XLH1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
