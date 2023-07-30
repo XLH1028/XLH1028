@@ -45,27 +45,6 @@
 <table>
 <tr><td>
 
-
-</tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/guide/history.html' target='_blank'>前端开发简史</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/web/guide/learn-road.html' target='_blank'>前端学习路线</a> - 2023-03-26
-* <a href='https://brain.sunguoqi.com/dv/basic/data/31.html' target='_blank'>选择合适方法对数据进行处理</a> - 2023-07-27
-* <a href='https://brain.sunguoqi.com/dv/basic/data/32.html' target='_blank'>可视化数据处理的一般方法</a> - 2023-07-27
-* <a href='https://brain.sunguoqi.com/dv/basic/data/33.html' target='_blank'>如何处理多元变量</a> - 2023-07-27
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
 ### 🤾‍♂️ Funny Soul
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
@@ -76,14 +55,13 @@
 * <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <!-- END_SECTION:douban -->
 
 </td></tr>
 
-<tr><td>
+</table>
 
-Landuages
- - vue ｜ js ｜ java ｜ go ｜  密码学 ｜ 比特币系统设计 ...
 My Skill Set 🚴‍♂️
 ---
 <table><tr><td valign="top" width="33%">
@@ -97,7 +75,6 @@ My Skill Set 🚴‍♂️
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 
 
@@ -126,10 +103,10 @@ My Skill Set 🚴‍♂️
 </div>
 
 
-</td></tr></table>  
+</td></tr>
+</table>  
 
 <br/>  
-</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -138,21 +115,21 @@ My Skill Set 🚴‍♂️
 
 ```mermaid
 mindmap
-  root((小孙同学))
+  root((Link同学))
     编程
       Web开发
-      网络爬虫
+      后端开发
       人工智能
     摄影
       人文
       建筑
       风景
     旅行
-      苏州
+      上海
+      杭州
       南京
-      滁州
-      合肥
-      寿县
+      成都
+      江西
     阅读
       人物传记
       个人成长
@@ -228,10 +205,10 @@ mindmap
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ### 今年汇总 ✨
----
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=XLH1028&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLH1028&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
  
